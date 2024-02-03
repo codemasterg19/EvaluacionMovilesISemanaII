@@ -8,6 +8,8 @@ import { Estilo4 } from './src/screens/Estilo4'
 import { Estilo5 } from './src/screens/Estilo5'
 import { Estilo6 } from './src/screens/Estilo6'
 import { Estilo7 } from './src/screens/Estilo7'
+import { Estilo8 } from './src/screens/Estilo8'
+import { Estilo9 } from './src/screens/Estilo9'
 
  export const App = () => {
   return (
@@ -18,8 +20,11 @@ import { Estilo7 } from './src/screens/Estilo7'
       <Estilo3/>
       <Estilo4/>
       <Estilo5/>
-      <Estilo6/>*/}
+      <Estilo6/>
       <Estilo7/>
+      <Estilo8/>
+      */}
+      <Estilo9/>
     </SafeAreaView>
 
   )
